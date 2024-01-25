@@ -33,12 +33,12 @@
 	
 	    <repository>
               <id>nexus</id><name>maven-web-application/</name>
-              <url>http://52.65.26.48:8081/repository/maven-web-application/</url>
+              <url>http://13.211.168.208:8081/repository/maven-web-application/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id><name>maven-web-app</name>
-              <url>http://52.65.26.48:8081/repository/Maven-web-app/</url>
+              <url>http://13.211.168.208:8081/repository/Maven-web-app/</url>
             </snapshotRepository>
 		
 	</distributionManagement>
